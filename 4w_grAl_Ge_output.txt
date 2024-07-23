@@ -1,0 +1,19 @@
+4-wave TWPA calculation output
+
+Tc =		2.15 K
+Rsq =		500.00 Ohm/sq
+t =			6.500000e-08 m 
+eps =		12.20
+v = 		1.368584e+06 m/s
+Z0 =		51.92 Ohm	
+l = 		7.000000e-02 m	
+Z_mod = 	0.800	
+l_mod = 	0.185
+Z1_mod = 	0.850
+l1_mod = 	0.185
+w(Z0) =		8.467952e-06 m
+period =	2.851217e-05 m
+
+fp =		8.000000e+09 Hz
+Ap_max =	0.100000
+d_kp/kp =	0.001250
